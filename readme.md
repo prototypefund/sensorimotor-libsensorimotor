@@ -1,11 +1,6 @@
 # Libsensorimotor
 
-Author(s):  
-
-Matthias Kubisch  
-kubisch@informatik.hu-berlin.de  
-October 2018  
-
+The sensorimotor library is used to control individual motor boards, connected to a cord. This repository offers a C++ API for inclusion as a dynamic library, as well as a python reference implementation using said library.
 
 ## Building the shared library
 
